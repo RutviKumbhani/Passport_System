@@ -1,0 +1,155 @@
+C:\passport\passport\bin\Debug\passport.exe.config
+C:\passport\passport\bin\Debug\passport.exe
+C:\passport\passport\bin\Debug\passport.pdb
+C:\passport\passport\obj\Debug\passport.login_form.resources
+C:\passport\passport\obj\Debug\passport.Properties.Resources.resources
+C:\passport\passport\obj\Debug\passport.welcome.resources
+C:\passport\passport\obj\Debug\passport.csproj.GenerateResource.Cache
+C:\passport\passport\obj\Debug\passport.exe
+C:\passport\passport\obj\Debug\passport.pdb
+C:\project c#\passport\passport\bin\Debug\passport.exe.config
+C:\project c#\passport\passport\bin\Debug\passport.exe
+C:\project c#\passport\passport\bin\Debug\passport.pdb
+C:\project c#\passport\passport\obj\Debug\passport.login_form.resources
+C:\project c#\passport\passport\obj\Debug\passport.Properties.Resources.resources
+C:\project c#\passport\passport\obj\Debug\passport.welcome.resources
+C:\project c#\passport\passport\obj\Debug\passport.csproj.GenerateResource.Cache
+C:\project c#\passport\passport\obj\Debug\passport.exe
+C:\project c#\passport\passport\obj\Debug\passport.pdb
+C:\project c#\passport\passport\obj\Debug\passport.csprojResolveAssemblyReference.cache
+C:\project\passport\passport\bin\Debug\passport.exe.config
+C:\project\passport\passport\bin\Debug\passport.exe
+C:\project\passport\passport\bin\Debug\passport.pdb
+C:\project\passport\passport\bin\Debug\Interop.Crystal.dll
+C:\project\passport\passport\bin\Debug\AxInterop.Crystal.dll
+C:\project\passport\passport\obj\Debug\Interop.Crystal.dll
+C:\project\passport\passport\obj\Debug\AxInterop.Crystal.dll
+C:\project\passport\passport\obj\Debug\passport.csproj.ResolveComReference.cache
+C:\project\passport\passport\obj\Debug\passport.about_us.resources
+C:\project\passport\passport\obj\Debug\passport.ab_owner.resources
+C:\project\passport\passport\obj\Debug\passport.ami.resources
+C:\project\passport\passport\obj\Debug\passport.applicant.resources
+C:\project\passport\passport\obj\Debug\passport.app_mas_report.resources
+C:\project\passport\passport\obj\Debug\passport.bill.resources
+C:\project\passport\passport\obj\Debug\passport.bill_mas_report.resources
+C:\project\passport\passport\obj\Debug\passport.cost_master.resources
+C:\project\passport\passport\obj\Debug\passport.cost_mas_report.resources
+C:\project\passport\passport\obj\Debug\passport.cpassword.resources
+C:\project\passport\passport\obj\Debug\passport.employee_master.resources
+C:\project\passport\passport\obj\Debug\passport.emp_mas_report.resources
+C:\project\passport\passport\obj\Debug\passport.login_form.resources
+C:\project\passport\passport\obj\Debug\passport.mdi_form.resources
+C:\project\passport\passport\obj\Debug\passport.police_appoi.resources
+C:\project\passport\passport\obj\Debug\passport.police_mas_report.resources
+C:\project\passport\passport\obj\Debug\passport.Properties.Resources.resources
+C:\project\passport\passport\obj\Debug\passport.rutvi.resources
+C:\project\passport\passport\obj\Debug\passport.welcome.resources
+C:\project\passport\passport\obj\Debug\passport.csproj.GenerateResource.Cache
+C:\project\passport\passport\obj\Debug\passport.exe
+C:\project\passport\passport\obj\Debug\passport.pdb
+C:\project\passport\passport\obj\Debug\passport.csprojResolveAssemblyReference.cache
+G:\project c#\project\passport\passport\bin\Debug\passport.exe.config
+G:\project c#\project\passport\passport\obj\Debug\Interop.Crystal.dll
+G:\project c#\project\passport\passport\obj\Debug\AxInterop.Crystal.dll
+G:\project c#\project\passport\passport\obj\Debug\passport.csproj.ResolveComReference.cache
+G:\project c#\project\passport\passport\obj\Debug\passport.exe
+G:\project c#\project\passport\passport\obj\Debug\passport.pdb
+G:\project c#\project\passport\passport\bin\Debug\passport.exe
+G:\project c#\project\passport\passport\bin\Debug\passport.pdb
+G:\project c#\project\passport\passport\bin\Debug\Interop.Crystal.dll
+G:\project c#\project\passport\passport\bin\Debug\AxInterop.Crystal.dll
+G:\project c#\project\passport\passport\obj\Debug\passport.csprojResolveAssemblyReference.cache
+G:\project c#\project\passport\passport\obj\Debug\passport.about_us.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.ab_owner.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.ami.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.applicant.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.app_mas_report.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.bill.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.bill_mas_report.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.cost_master.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.cost_mas_report.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.cpassword.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.employee_master.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.emp_mas_report.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.login_form.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.mdi_form.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.police_appoi.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.police_mas_report.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.Properties.Resources.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.rutvi.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.welcome.resources
+G:\project c#\project\passport\passport\obj\Debug\passport.csproj.GenerateResource.Cache
+E:\project c#\project\passport\passport\bin\Debug\passport.exe.config
+E:\project c#\project\passport\passport\obj\Debug\Interop.Crystal.dll
+E:\project c#\project\passport\passport\obj\Debug\AxInterop.Crystal.dll
+E:\project c#\project\passport\passport\obj\Debug\passport.csproj.ResolveComReference.cache
+E:\project c#\project\passport\passport\obj\Debug\passport.exe
+E:\project c#\project\passport\passport\obj\Debug\passport.pdb
+G:\G-3\passport\passport\bin\Debug\passport.exe.config
+G:\G-3\passport\passport\obj\Debug\Interop.Crystal.dll
+G:\G-3\passport\passport\obj\Debug\AxInterop.Crystal.dll
+G:\G-3\passport\passport\obj\Debug\passport.csproj.ResolveComReference.cache
+G:\G-3\passport\passport\obj\Debug\passport.exe
+G:\G-3\passport\passport\obj\Debug\passport.pdb
+D:\project c#\G-3\passport\passport\bin\Debug\passport.exe.config
+D:\project c#\G-3\passport\passport\obj\Debug\Interop.Crystal.dll
+D:\project c#\G-3\passport\passport\obj\Debug\AxInterop.Crystal.dll
+D:\project c#\G-3\passport\passport\obj\Debug\passport.csproj.ResolveComReference.cache
+D:\project c#\G-3\passport\passport\obj\Debug\passport.exe
+D:\project c#\G-3\passport\passport\obj\Debug\passport.pdb
+D:\project c#\G-3\passport\passport\bin\Debug\passport.exe
+D:\project c#\G-3\passport\passport\bin\Debug\passport.pdb
+D:\project c#\G-3\passport\passport\bin\Debug\Interop.Crystal.dll
+D:\project c#\G-3\passport\passport\bin\Debug\AxInterop.Crystal.dll
+D:\project c#\G-3\passport\passport\obj\Debug\passport.csprojResolveAssemblyReference.cache
+D:\project c#\G-3\passport\passport\obj\Debug\passport.about_us.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.ab_owner.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.ami.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.applicant.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.app_mas_report.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.bill.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.bill_mas_report.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.cost_master.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.cost_mas_report.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.cpassword.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.employee_master.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.emp_mas_report.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.login_form.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.mdi_form.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.police_appoi.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.police_mas_report.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.Properties.Resources.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.rutvi.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.welcome.resources
+D:\project c#\G-3\passport\passport\obj\Debug\passport.csproj.GenerateResource.Cache
+C:\BCA_projects\G-3\passport\passport\bin\Debug\passport.exe.config
+C:\BCA_projects\G-3\passport\passport\obj\Debug\Interop.Crystal.dll
+C:\BCA_projects\G-3\passport\passport\obj\Debug\AxInterop.Crystal.dll
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.csproj.ResolveComReference.cache
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.exe
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.pdb
+C:\BCA_projects\G-3\passport\passport\bin\Debug\passport.exe
+C:\BCA_projects\G-3\passport\passport\bin\Debug\passport.pdb
+C:\BCA_projects\G-3\passport\passport\bin\Debug\Interop.Crystal.dll
+C:\BCA_projects\G-3\passport\passport\bin\Debug\AxInterop.Crystal.dll
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.csprojResolveAssemblyReference.cache
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.about_us.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.ab_owner.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.ami.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.applicant.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.app_mas_report.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.bill.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.bill_mas_report.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.cost_master.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.cost_mas_report.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.cpassword.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.employee_master.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.emp_mas_report.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.login_form.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.mdi_form.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.police_appoi.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.police_mas_report.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.Properties.Resources.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.rutvi.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.welcome.resources
+C:\BCA_projects\G-3\passport\passport\obj\Debug\passport.csproj.GenerateResource.Cache
